@@ -3,7 +3,7 @@ from telebot import types
 import random
 import time
 
-TOKEN = '7658794690:AAH0mrnu9JahPQCwuu9nkAQKm1_DWM_jF0Q'
+TOKEN = ''
 bot = telebot.TeleBot(TOKEN)
 
 products = []
